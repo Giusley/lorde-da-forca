@@ -1,0 +1,159 @@
+* 4 listas de palavras
+	Objeto, Animal, País, Carro
+	(implementar mais temas)ok
+
+* palavra com dica (implementar)
+
+* Sistema de erros e acertos
+	Fácil: pode errar 7 vezes
+	Médio: pode errar 5 vezes
+	Difícil: pode errar 3 vezes
+
+* Temporizador
+	45 segundos
+	90 segundos
+	120 segundos
+
+* Sistema de score
+	2 pontos por cada letra acertada
+
+* Estatísticas de Jogo
+	Total de palavras acertadas
+	Total de palavras erradas
+	Total de jogos concluídos
+	Quantidade de palavras em jogo
+
+* Efeitos sonoros
+
+* Acessibilidade
+	Compatível com leitor de texto
+	Navegação por teclado
+
+
+
+Visão geral
+
+Atualmente no Brasil, apenas 0,74% dos sites brasileiros são completamente acessíveis.
+
+Além de dar incentivo as pessoas com deficiência (PCD), 
+a intenção é mostrar que é possível fazer jogos acessíveis.
+
+Espero que gostem e usem esta iniciativa.
+
+Vale lembrar que no Brasil está em vigor, desde 2015, 
+a Lei Brasileira de Inclusão da Pessoa com Deficiência 
+(Lei 13.146) http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13146.htm, 
+que torna obrigatória a acessibilidade nos sites mantidos por empresas com sede ou 
+representação comercial no Brasil ou por órgãos de governo.
+
+
+100% jogável pelo teclado
+...............................................................................
+...............................................................................
+
+De acordo com o WebAIM, em 2019, apenas 2,5% dos sites analisados atendiam aos critérios 
+mínimos de acessibilidade, em uma amostra de 1 milhão de páginas.
+
+Embora esse dado não represente toda a internet brasileira, reforça a importância da 
+acessibilidade web no Brasil e no mundo.
+
+Vale lembrar que essa questão não beneficia apenas pessoas com deficiência, 
+mas também pessoas idosas, com baixa literacia digital e em situações temporárias de incapacidade.
+...............................................................................
+...............................................................................
+
+"Tutorial de controles do jogo Lorde da Forca".
+
+Movimentação:
+
+	Setas esquerda e baixo: mover para esquerda e para baixo
+	Setas direita e cima: mover para direita e para cima
+	
+Seleção:
+
+	Enter ou espaço: selecionar
+	
+Retorno ao menu principal:
+
+	Esc ou Backspace: retornar ao menu principal
+	
+Índice:
+
+	Tab: ir para o próximo índice
+
+
+Como Jogar: Você pode usar o mouse ou o teclado.
+
+...............................................................................
+...............................................................................
+
+	MENU
+	.
+	.Utilize as setas do teclado para navegar pelos links do menu.
+	
+		[ArrowLeft,ArrowDown]	:::::::::::> Mover para direita e para baixo.
+		
+		[ArrowRight,ArrowUp]  	:::::::::::> Mover para traz e para cima.
+		
+		[Enter (Return),Space]	:::::::::::> Selecionar.
+		
+		[Esc, Backspace]		:::::::::::> Retornar ao menu principal.
+		
+		[Tab]					:::::::::::> Ir para o próximo índice.
+		
+		[I]						:::::::::::> Exibir painel de informações.
+		
+		[P]						:::::::::::> Abrir sessão de jogo (Jogar). 
+		
+		[M]						:::::::::::> Mutar/Desligar audio.
+		
+		[S,N]					:::::::::::> Abrir sessão de  seleção de tema.
+		
+		[E]						:::::::::::> Abrir sessão de estatisticas.
+		
+		[F]						:::::::::::> FullScreen
+	
+	.
+	.
+...............................................................................
+...............................................................................
+
+	BOAS VINDAS / DICAS
+	. Bem vindo.
+	. Você pode usar o mouse ou o teclado.
+	. Utilize as setas do teclado para navegar pelos links do menu.
+	. Compatível com leitor de texto.
+	. Comece com as vogais.
+	. Tente adivinhar outras vogais comuns.
+	. Preste atenção nas letras já tentadas.
+	. Amplie seu vocabulário.
+	
+...............................................................................
+...............................................................................
+
+Este jogo é gratuito, mas o desenvolvedor aceita o seu apoio 
+deixando que você pague o que acha justo pelo jogo.
+
+...............................................................................
+...............................................................................
+
+O Instituto Brasileiro de Classificação Indicativa (IBACI) é responsável por 
+classificar jogos eletrônicos e outros produtos audiovisuais quanto à idade 
+adequada para o consumo. No entanto, é importante destacar que o jogo da forca 
+pode ser considerado uma atividade violenta e que pode não ser apropriada 
+para crianças ou adolescentes.
+
+O IBACI possui cinco classificações: Livre, 10 anos, 12 anos, 14 anos e 18 anos.
+ A classificação é baseada em critérios como violência, sexo, linguagem 
+ imprópria, consumo de drogas, entre outros fatores que possam ser considerados 
+ prejudiciais para o público mais jovem.
+No caso específico do jogo da forca, que consiste em adivinhar uma palavra 
+ou frase, errando letras e desenhando partes do corpo de uma pessoa enforcada, 
+poderia ser considerado violento e inapropriado para crianças ou adolescentes. 
+Nesse sentido, é possível que seja classificado como 14 anos ou 18 anos, 
+dependendo do conteúdo e da forma como é apresentado.
+No entanto, é importante lembrar que a classificação indicativa é uma 
+recomendação, e cabe aos pais ou responsáveis avaliar se o jogo é adequado 
+para as crianças e adolescentes sob sua responsabilidade. É importante ter 
+em mente que, mesmo que um jogo seja classificado como "Livre", 
+ele pode conter elementos que não são apropriados para todas as idades.

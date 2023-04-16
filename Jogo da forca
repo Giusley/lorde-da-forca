@@ -1,0 +1,11 @@
+<NotepadPlus>
+    <Project name="Hangman-MMXXI">
+        <Folder name="css">
+            <File name="css\style.css" />
+        </Folder>
+        <Folder name="js">
+            <File name="js\app.js" />
+        </Folder>
+        <File name="index.html" />
+    </Project>
+</NotepadPlus>
