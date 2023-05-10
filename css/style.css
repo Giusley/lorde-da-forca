@@ -636,10 +636,11 @@ footer>span>sup{
 }
 
 
-footer>span:focus, footer>span:hover, #fullIco:focus, #fullIco:hover, #questionIco:focus, #questionIco:hover{
-	/* box-shadow:0px 0px .4rem #248fff; */
-	/* background-color:#5588f8!important; */
-}
+/* footer>span:focus, footer>span:hover, #fullIco:focus, #fullIco:hover, #questionIco:focus, #questionIco:hover{
+	/* box-shadow:0px 0px .4rem #248fff; 
+	/* background-color:#5588f8!important; 
+}*/
+
 footer>span:before{
 	content:'';
 	position:relative;

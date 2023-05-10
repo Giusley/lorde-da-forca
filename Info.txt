@@ -157,3 +157,9 @@ recomendação, e cabe aos pais ou responsáveis avaliar se o jogo é adequado
 para as crianças e adolescentes sob sua responsabilidade. É importante ter 
 em mente que, mesmo que um jogo seja classificado como "Livre", 
 ele pode conter elementos que não são apropriados para todas as idades.
+
+
+	Classificação	Descrição
+		(L)			Todas as idades
+	O conteúdo é adequado a todas as idades. 
+	Por vezes, pode apresentar algum elemento de baixíssimo impacto, como violência infantilizada.
